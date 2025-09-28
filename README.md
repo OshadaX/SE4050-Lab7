@@ -3,7 +3,7 @@
 
 **Name:** Oshada Navindra 
 **Student ID:**  IT22079022    
-**Degree Program:** BSc (Hons) in Information Technology – Software Engineering Specialization  
+**Degree Program:** BSc (Hons) in Information Technology – Information Technology Specialization  
 **Year:** 4  
 
 ---
